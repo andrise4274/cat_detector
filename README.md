@@ -10,10 +10,13 @@ https://github.com/user-attachments/assets/32f9e533-0596-4e68-b20b-68eaa74434a3
 
 
 #### Katzenerkennung
-Daher habe ich einen Raspi 5 mit einer billigen Nachtsichtkamera und einem yolov11 object detection model kombiniert, um auf eine Katze in dieser Region reagieren zu können. (Python code im repo)
+Daher habe ich einen Raspi 5 mit einer billigen Nachtsichtkamera und einem yolov11 object detection model kombiniert, um auf eine Katze in dieser Region reagieren zu können.
 
 <img width="640" height="480" alt="cat_20260313131011_boxes" src="https://github.com/user-attachments/assets/30e507d2-3207-4cb2-8aa6-4571ef589131" />
 
+**Code - simillar to [[Yolov11 on Raspberry Pi]]** -> im Repo
+
+- additionally imports gpizero and turns servo 5x from 30 to 120° when something is detected - activates water sprayer
 
 
 #### Wassersprüher mit Servo
