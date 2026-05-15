@@ -52,7 +52,7 @@ CAD Form - ist mit 6° Neigungswinkel eingebettet
 <img width="640" height="480" alt="cat_20260314020839_boxes" src="https://github.com/user-attachments/assets/c3b52baa-9def-4f3e-b943-04ac98eca407" />
 
 ##### andere Tiere
-Waschbär
+Waschbär - der gerade vom Wildhüter gesucht wird
 
 <img width="640" height="480" alt="cat_20260411231746_boxes" src="https://github.com/user-attachments/assets/9d74e703-c090-4d43-8762-56f822297964" />
 
